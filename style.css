@@ -25,8 +25,8 @@
 
 .mainparent
     {
-        height: 100vh;
-        background-color: red;
+    height: 100vh;
+    background-color: navy;
         font-family: "Lucida Console";
         font-size: 1.2em
 
@@ -55,6 +55,7 @@
 .content
 {
     background-image: url(Retro.jpg);
+    background-attachment: fixed;
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
