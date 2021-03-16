@@ -6,6 +6,7 @@
         background-position: center;
         background-size: cover;
         border-radius: 15px;
+
     }
 
 .mainheader  .navbar-brand
@@ -30,8 +31,6 @@
         font-family: "Lucida Console";
         font-size: 1.2em
         text-align: left;
-
-
     }
 
 .mainheader .navbar-toggler-icon
@@ -49,8 +48,6 @@
 {
     color: #ff73e8;
     text-shadow: 5px 5px 5px #000000;
-    background: rgb(0, 115, 255, 0.2);
-    border-radius: 10px;
 }
 .mainparent .navbar-brand
 {
@@ -65,6 +62,20 @@
     background-position: center;
     background-size: cover;
 }
+.layer
+{
+    background: rgb(0, 115, 255, 0.2);
+}
+.images
+{
+    background-image: url("16P.png");
+    background-repeat: no-repeat;
+    margin-left: auto;
+    margin-top: -150px;
+    width: 427px;
+    height: 804px;
+}
+
 
 
 
