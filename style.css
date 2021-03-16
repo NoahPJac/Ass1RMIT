@@ -64,7 +64,7 @@
 }
 .layer
 {
-    background: rgb(0, 115, 255, 0.2);
+    background: linear-gradient(to right, rgba(0, 115, 255, 0.4), rgba(180, 49, 250, 0.4));
 }
 .images
 {
@@ -75,7 +75,7 @@
     width: 427px;
     height: 804px;
 }
-
+.iitimages
 
 
 
