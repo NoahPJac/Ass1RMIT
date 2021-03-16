@@ -20,7 +20,7 @@
 
 .mainheader .navbar-nav a:hover
     {
-        color:#4EFF00ff;
+        color: #ebb6ff;
     }
 
 .mainparent
@@ -41,22 +41,23 @@
 
 .maincontent .spinner-border
     {
-    color: #FF19FBff;
+    color: #ff73e8;
     margin-top: 50%;
     margin-left: 50%;
     }
 .maincontent
 {
-    color: #4EFF00ff;
+    color: #ff73e8;
+    text-shadow: 10px 10px 10px black;
 }
 .mainparent .navbar-brand
 {
-    color: #FF19FBff;
+    color: #ff73e8;
     text-shadow: 5px 5px 10px black;
 }
 .content
 {
-    background-image: url(Retro2.jpg);
+    background-image: url(Retro4.jpg);
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-position: center;
