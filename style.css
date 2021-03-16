@@ -29,6 +29,8 @@
     background-color: navy;
         font-family: "Lucida Console";
         font-size: 1.2em
+        text-align: left;
+
 
     }
 
@@ -54,12 +56,15 @@
 }
 .content
 {
-    background-image: url(Retro.jpg);
+    background-image: url(Retro2.jpg);
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
 }
+
+
+
 
 
 
