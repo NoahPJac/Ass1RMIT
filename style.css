@@ -48,7 +48,9 @@
 .maincontent
 {
     color: #ff73e8;
-    text-shadow: 10px 10px 10px black;
+    text-shadow: 5px 5px 5px #000000;
+    background: rgb(0, 115, 255, 0.2);
+    border-radius: 10px;
 }
 .mainparent .navbar-brand
 {
