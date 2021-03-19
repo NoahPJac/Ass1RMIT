@@ -11,7 +11,7 @@
 
 .mainheader  .navbar-brand
     {
-        font-size: 1.2em
+        font-size: 1.4em
     }
 
 .mainheader .navbar-nav a
@@ -66,15 +66,12 @@
 {
     background: linear-gradient(to right, rgba(0, 115, 255, 0.4), rgba(180, 49, 250, 0.4));
 }
-.images
-{
-    background-image: url("16P.png");
-    background-repeat: no-repeat;
-    margin-left: auto;
-    margin-top: -150px;
-    width: 427px;
-    height: 804px;
+
+.maincontent em {
+    font-size: 1.3em;
+    color: darkgoldenrod;
 }
+
 
 
 
